@@ -1,0 +1,31 @@
+{
+  "name": "mean-stack-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial for mean-stack with angular 2 youtube David Acosta",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBurdik/mean-app-tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "angular",
+    "2",
+    "application"
+  ],
+  "author": "Jirka Burdych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBurdik/mean-app-tutorial/issues"
+  },
+  "homepage": "https://github.com/JBurdik/mean-app-tutorial#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9"
+  }
+}
